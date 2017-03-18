@@ -259,10 +259,9 @@ AddType application/x-shockwave-flash       swf
 # If using this, make sure the "Remove www. from beginning of URLS" block is commented out
 
  <IfModule mod_rewrite.c>
-  RewriteCond %{HTTP_HOST} !^othello-staging.sekkithub.com [NC]
-  RewriteCond %{HTTP_HOST} !^othello.sekkithub.com [NC]
-  RewriteCond %{HTTP_HOST} !^othello.dev [NC]
-  RewriteCond %{HTTP_HOST} !^www\. [NC]
+  RewriteCond %{HTTP_HOST} ^othello.sekkithub.com$ [OR]
+  RewriteCond %{HTTP_HOST} ^othello-staging.sekkithub.com$ [OR]
+  RewriteCond %{HTTP_HOST} ^othello.dev$
   RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
  </IfModule>
 
