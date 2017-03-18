@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="381px" viewBox="0 0 165 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Black Copy 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Black-Copy-11">
+            <rect id="bg" fill-opacity="0.00999999978" fill="#FFFFFF" x="0" y="0" width="165" height="381"></rect>
+            <g id="02" transform="translate(17.711548, 181.104596)">
+                <g id="Black" transform="translate(0.000000, 25.329314)">
+                    <rect id="Rectangle" fill="#DADBD6" x="0" y="18.9969856" width="121.450612" height="13.9311228"></rect>
+                    <ellipse id="Oval-Copy" fill="#D0D2D1" cx="60.7253058" cy="32.9281084" rx="60.7253058" ry="32.9281084"></ellipse>
+                </g>
+                <g id="White">
+                    <rect id="Rectangle" fill="#151419" x="0" y="31.6616427" width="121.450612" height="13.9311228"></rect>
+                    <ellipse id="Oval-Copy" fill="#121015" cx="60.7253058" cy="45.5927655" rx="60.7253058" ry="32.9281084"></ellipse>
+                    <ellipse id="Oval" fill="#181819" cx="60.7253058" cy="32.9281084" rx="60.7253058" ry="32.9281084"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

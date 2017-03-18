@@ -1,0 +1,16 @@
+/* =======================
+   Components/Container
+   ======================= */
+.c-container {
+  position: relative;
+  height: 100%;
+}
+
+  .c-container__item {
+    height: 381px;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 165px;
+  }

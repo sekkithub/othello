@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="381px" viewBox="0 0 165 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="white">
+            <rect id="bg" fill-opacity="0.00999999978" fill="#FFFFFF" x="0" y="0" width="165" height="381"></rect>
+            <g id="05" transform="translate(80.037061, 72.752046) rotate(-9.000000) translate(-80.037061, -72.752046) translate(19.037061, 33.252046)">
+                <g id="Black" transform="translate(-0.000000, 16.174512)" fill="#D0D2D1">
+                    <rect id="Rectangle" x="0.424592481" y="15.5183157" width="121.197593" height="17.8084814"></rect>
+                    <ellipse id="Oval-Copy" cx="60.7230377" cy="30.5255815" rx="60.694259" ry="30.5231306"></ellipse>
+                </g>
+                <g id="White" transform="translate(-0.000000, -0.000000)">
+                    <rect id="Rectangle" fill="#121015" x="0.424592481" y="22.7074099" width="121.197593" height="13.9311228"></rect>
+                    <ellipse id="Oval-Copy" fill="#121015" cx="60.7540845" cy="33.5012626" rx="60.7253058" ry="27.2890915"></ellipse>
+                    <ellipse id="Oval" fill="#181919" cx="61.014085" cy="22.7963828" rx="60.7253058" ry="22.7963828"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

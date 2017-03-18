@@ -49,7 +49,6 @@ $mq-breakpoints: (
 @import "../../node_modules/inuitcss/elements/elements.images";
 @import "../../node_modules/inuitcss/elements/elements.tables";
 @import "elements.links";
-@import "elements.form";
 @import "elements.text";
 
 
@@ -68,6 +67,11 @@ $mq-breakpoints: (
 @import "../../node_modules/inuitcss/objects/objects.crop";
 @import "../../node_modules/inuitcss/objects/objects.tables";
 @import "../../node_modules/inuitcss/objects/objects.pack";
+
+
+// COMPONENTS
+@import "components.container";
+@import "components.othello";
 
 
 // UTILITIES

@@ -32,7 +32,7 @@ const paths = {
     outputName: 'main.js',
   },
   templates: {
-    all: 'craft/templates/**/*',
+    all: 'public/index.php',
   },
 };
 

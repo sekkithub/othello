@@ -1,0 +1,31 @@
+/* =======================
+   Components/Othello
+   ======================= */
+.c-othello {
+  position: relative;
+  height: 100%;
+}
+
+  .c-othello__item {
+    height: 100%;
+  }
+
+  .c-othello__black {
+
+  }
+
+    .c-othello__image {
+      backface-visibility: hidden;
+      cursor: pointer;
+      opacity: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      visibility: hidden;
+
+      &.active {
+        opacity: 1 !important;
+        visibility: visible !important;
+      }
+    }
