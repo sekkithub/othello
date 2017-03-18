@@ -110,7 +110,7 @@ gulp.task('initialBundle', () => {
 
 gulp.task('browser-sync', () => {
   browserSync({
-    proxy: 'base-craft.dev',
+    proxy: 'othello.dev',
     port: 3000,
     open: true,
     notify: false,
