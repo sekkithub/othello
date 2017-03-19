@@ -1,5 +1,5 @@
-<div class="c-container__item">
-  <div class="c-othello  js-othello">
+<div class="c-othello">
+  <div class="c-othello__container  js-othello">
     <div class="c-othello__item  black  js-othello-item">
       <img src="/images/black/01.svg" class="c-othello__image  js-othello-image  active" />
       <img src="/images/black/02.svg" class="c-othello__image  js-othello-image" />
