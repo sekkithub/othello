@@ -7,15 +7,6 @@ $inuit-global-line-height: 30px;
 @import "settings.measurements";
 
 
-// LIBRARIES
-$bt-font-path: '/fonts/black-tie/fonts';
-@import "libs/black-tie.scss";
-@import "../../node_modules/slick-carousel/slick/slick.scss";
-@import "../../node_modules/slick-carousel/slick/slick-theme.scss";
-@import "../../node_modules/plyr/src/scss/plyr.scss";
-@import "../../node_modules/magnific-popup/src/css/main";
-
-
 // TOOLS
 @import "../../node_modules/inuitcss/tools/tools.rem";
 @import "../../node_modules/inuitcss/tools/tools.font-size";
