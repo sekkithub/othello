@@ -8,8 +8,10 @@
 <body>
   <div class="c-container">
     <div class="c-lines">
-      <?php for ($k = 0 ; $k < 10; $k++){ echo '<div class="c-lines__line  c-lines__vertical-line"></div>'; } ?>
-      <?php for ($k = 0 ; $k < 10; $k++){ echo '<div class="c-lines__line  c-lines__horizontal-line"></div>'; } ?>
+      <?php for ($k = 0 ; $k < 20; $k++){ echo '<div class="c-lines__line  c-lines__vertical-line"></div>'; } ?>
+    </div>
+    <div class="c-lines">
+      <?php for ($k = 0 ; $k < 20; $k++){ echo '<div class="c-lines__line  c-lines__horizontal-line"></div>'; } ?>
     </div>
     <div class="c-othellos">
       <?php include ('partial/othello.php'); ?>
