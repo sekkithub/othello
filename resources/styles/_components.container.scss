@@ -1,0 +1,21 @@
+/* =======================
+   Components/Container
+   ======================= */
+.c-container {
+  height: 110%;
+  overflow: hidden;
+  position: relative;
+  width: 300%;
+
+  @include mq($from: tablet) {
+    width: 200%;
+  }
+
+  @include mq($from: desktop) {
+    width: 140%;
+  }
+
+  @include mq($from: wide) {
+    width: 110%;
+  }
+}

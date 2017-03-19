@@ -6,7 +6,19 @@
   <title>Othello</title>
 </head>
 <body>
-  <h1>Othello Hhh Push</h1>
+  <div class="c-container">
+    <div class="c-lines">
+      <?php for ($k = 0 ; $k < 20; $k++){ echo '<div class="c-lines__line  c-lines__vertical-line"></div>'; } ?>
+    </div>
+    <div class="c-lines">
+      <?php for ($k = 0 ; $k < 20; $k++){ echo '<div class="c-lines__line  c-lines__horizontal-line"></div>'; } ?>
+    </div>
+    <div class="c-othellos">
+      <?php for ($k = 0 ; $k < 24; $k++){
+        include ('partial/othello.php');
+      } ?>
+    </div>
+  </div>
   <script src="/scripts/main.js"></script>
 </body>
 </html>

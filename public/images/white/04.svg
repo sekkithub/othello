@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="112px" viewBox="0 0 123 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>04</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="white" transform="translate(-22.000000, -31.000000)">
+            <g id="04" transform="translate(82.867184, 87.646603) rotate(-2.000000) translate(-82.867184, -87.646603) translate(3.867184, 12.646603)">
+                <g id="Black-Copy-2" transform="translate(79.115370, 74.655641) rotate(-34.000000) translate(-79.115370, -74.655641) translate(17.115370, 26.655641)">
+                    <g id="White" transform="translate(-0.000000, 0.000000)">
+                        <ellipse id="Oval" fill="#DADBD6" cx="61.9634544" cy="36.7332655" rx="60.7363423" ry="36.7332655"></ellipse>
+                        <ellipse id="Oval-Copy" fill="#121015" cx="61.2413977" cy="48.1074307" rx="60.7363423" ry="10.6123468"></ellipse>
+                        <rect id="Rectangle" fill="#DADBD6" x="1.22711211" y="31.6616427" width="120.263468" height="10.0796262"></rect>
+                    </g>
+                    <g id="Black" transform="translate(0.263031, 11.425867)">
+                        <ellipse id="Oval-Copy-2" fill="#181919" cx="61.6814909" cy="33.7748096" rx="60.8418431" ry="33.533666"></ellipse>
+                        <rect id="Rectangle" fill="#181919" x="0.763611702" y="33.7748096" width="121.683686" height="16.2229106"></rect>
+                        <ellipse id="Oval-Copy" fill="#121015" cx="62.1069537" cy="49.9977202" rx="60.8418431" ry="33.533666"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,180 @@
+/* =======================
+   Components/Lines
+   ======================= */
+.c-lines {
+  height: 100%;
+  position: absolute;
+  top: -10px;
+  width: 100%;
+}
+
+  .c-lines__line {
+    background-color: color(base-black);
+    height: 6px;
+    position: absolute;
+    width: 1000%;
+    transform-origin: left;
+  }
+
+  .c-lines__vertical-line {
+    transform: rotate(42deg);
+    left: -1020px;
+    top: 0;
+
+    &:nth-child(2) {
+      left: -850px;
+    }
+
+    &:nth-child(3) {
+      left: -680px;
+    }
+
+    &:nth-child(4) {
+      left: -510px;
+    }
+
+    &:nth-child(5) {
+      left: -340px;
+    }
+
+    &:nth-child(6) {
+      left: -170px;
+    }
+
+    &:nth-child(7) {
+      left: 0;
+    }
+
+    &:nth-child(8) {
+      left: 170px;
+    }
+
+    &:nth-child(9) {
+      left: 340px;
+    }
+
+    &:nth-child(10) {
+      left: 510px;
+    }
+
+    &:nth-child(11) {
+      left: 680px;
+    }
+
+    &:nth-child(12) {
+      left: 850px;
+    }
+
+    &:nth-child(13) {
+      left: 1020px;
+    }
+
+    &:nth-child(14) {
+      left: 1190px;
+    }
+
+    &:nth-child(15) {
+      left: 1360px;
+    }
+
+    &:nth-child(16) {
+      left: 1530px;
+    }
+
+    &:nth-child(17) {
+      left: 1700px;
+    }
+
+    &:nth-child(18) {
+      left: 1870px;
+    }
+
+    &:nth-child(19) {
+      left: 2040px;
+    }
+
+    &:nth-child(20) {
+      left: 2210px;
+    }
+  }
+
+  .c-lines__horizontal-line {
+    top: 62px;
+    transform: rotate(-20deg);
+
+    &:nth-child(2) {
+      top: 170px;
+    }
+
+    &:nth-child(3) {
+      top: 278px;
+    }
+
+    &:nth-child(4) {
+      top: 386px;
+    }
+
+    &:nth-child(5) {
+      top: 494px;
+    }
+
+    &:nth-child(6) {
+      top: 602px;
+    }
+
+    &:nth-child(7) {
+      top: 710px;
+    }
+
+    &:nth-child(8) {
+      top: 818px;
+    }
+
+    &:nth-child(9) {
+      top: 926px;
+    }
+
+    &:nth-child(10) {
+      top: 1034px;
+    }
+
+    &:nth-child(11) {
+      top: 1142px;
+    }
+
+    &:nth-child(12) {
+      top: 1250px;
+    }
+
+    &:nth-child(13) {
+      top: 1358px;
+    }
+
+    &:nth-child(14) {
+      top: 1466px;
+    }
+
+    &:nth-child(15) {
+      top: 1574px;
+    }
+
+    &:nth-child(16) {
+      top: 1682px;
+    }
+
+    &:nth-child(17) {
+      top: 1790px;
+    }
+
+    &:nth-child(18) {
+      top: 1898px;
+    }
+
+    &:nth-child(19) {
+      top: 2006px;
+    }
+
+    &:nth-child(20) {
+      top: 2114px;
+    }
+  }
