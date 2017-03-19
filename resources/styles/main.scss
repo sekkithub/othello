@@ -3,14 +3,11 @@ $inuit-global-font-size:   20px;
 $inuit-global-line-height: 30px;
 @import "../../node_modules/inuitcss/settings/settings.core";
 @import "settings.colors";
-@import "settings.transitions";
-@import "settings.measurements";
 
 
 // TOOLS
 @import "../../node_modules/inuitcss/tools/tools.rem";
 @import "../../node_modules/inuitcss/tools/tools.font-size";
-@import "tools.fonts";
 @import "../../node_modules/inuitcss/tools/tools.clearfix";
 @import "../../node_modules/inuitcss/tools/tools.hidden";
 $mq-breakpoints: (
@@ -22,7 +19,6 @@ $mq-breakpoints: (
 );
 @import "../../node_modules/sass-mq/mq";
 @import "tools.aliases";
-@import "tools.mixins";
 @import "tools.color";
 
 
@@ -36,18 +32,13 @@ $mq-breakpoints: (
 // ELEMENTS
 @import "../../node_modules/inuitcss/elements/elements.page";
 @import "elements.page";
-@import "elements.headings";
 @import "../../node_modules/inuitcss/elements/elements.images";
 @import "../../node_modules/inuitcss/elements/elements.tables";
-@import "elements.links";
-@import "elements.text";
 
 
 // OBJECTS
 @import "../../node_modules/inuitcss/objects/objects.wrapper";
-@import "objects.wrapper";
 @import "../../node_modules/inuitcss/objects/objects.layout";
-@import "objects.layout";
 @import "../../node_modules/inuitcss/objects/objects.media";
 @import "../../node_modules/inuitcss/objects/objects.flag";
 @import "../../node_modules/inuitcss/objects/objects.list-bare";
@@ -70,10 +61,5 @@ $mq-breakpoints: (
 @import "../../node_modules/inuitcss/utilities/utilities.clearfix";
 @import "../../node_modules/inuitcss/utilities/utilities.widths";
 @import "../../node_modules/inuitcss/utilities/utilities.spacing";
-@import "utilities.responsive-spacing";
 @import "../../node_modules/inuitcss/utilities/utilities.print";
 @import "../../node_modules/inuitcss/utilities/utilities.hide";
-@import "utilities.hide-responsive";
-@import "utilities.colors";
-@import "utilities.animation";
-@import "utilities.text-size";
