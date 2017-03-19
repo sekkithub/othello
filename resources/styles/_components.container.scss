@@ -2,16 +2,17 @@
    Components/Container
    ======================= */
 .c-container {
-  height: 110%;
+  height: 150%;
   overflow: hidden;
   position: relative;
-  width: 300%;
+  width: 350%;
 
   @include mq($from: tablet) {
     width: 200%;
   }
 
   @include mq($from: desktop) {
+    height: 110%;
     width: 140%;
   }
 
